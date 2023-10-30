@@ -1,0 +1,14 @@
+.imgStyle {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    border: 3px solid #D94F32;
+  }
+
+  .imgStyle1 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border: 3px solid #D94F32;
+   top: -150%;
+  }
