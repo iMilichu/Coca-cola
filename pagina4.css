@@ -1,0 +1,13 @@
+.img{
+    block-size: 10%;
+       position: absolute;
+       width: 400px;
+       height: 400px;
+   left: 800px;
+   }
+   .caja1{
+       margin-bottom: 100px;
+   }
+   .caja2{
+       margin-bottom: 100px;
+   }
